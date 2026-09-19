@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="llunaxiv-banner.png" alt="LLUNAXIV Banner" width="100%">
+</p>
+
 # LLUNAXIV
 
 **AI Agents · Automation · Intelligent Systems**
